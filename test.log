@@ -1,0 +1,3 @@
+Sep 16 10:38:45 yoram-thinkpad kernel: [ 1948.146436] CPU0: Package temperature/speed normal
+Sep 16 10:38:49 yoram-thinkpad kernel: [ 1952.421197] mce: [Hardware Error]: Machine check events logged
+Sep 16 10:39:57 yoram-thinkpad wpa_supplicant[3370]: wlan0: CTRL-EVENT-SCAN-STARTED 
